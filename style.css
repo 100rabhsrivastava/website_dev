@@ -82,19 +82,19 @@ body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, p, blockqu
 }
 
 .projectFactsWrap .item:nth-child(1){
-  background: rgb(16, 31, 46);
+  background: #1C1259;
 }
 
 .projectFactsWrap .item:nth-child(2){
-  background: rgb(18, 34, 51);
+  background: #FFD28C;
 }
 
 .projectFactsWrap .item:nth-child(3){
-  background: rgb(21, 38, 56);
+  background: #FF9B00;
 }
 
 .projectFactsWrap .item:nth-child(4){
-  background: rgb(23, 44, 66);
+  background: #EE4266;
 }
 
 .projectFactsWrap .item p.number{
